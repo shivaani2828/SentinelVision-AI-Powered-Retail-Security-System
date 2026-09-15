@@ -78,7 +78,7 @@ AI-CCTV-Retail-Security/
 ### Installation
 
 ```bash
-git clone https://github.com/ShashankInData/AI-CCTV-Retail-Security.git
+git clone https://github.com/shivaani2828/SentinelVision-AI-Powered-Retail-Security-System.git
 cd AI-CCTV-Retail-Security
 
 python -m venv venv
