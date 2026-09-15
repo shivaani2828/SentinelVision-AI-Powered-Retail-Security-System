@@ -91,7 +91,7 @@ pip install -r requirements.txt
 ### Download Model Weights
 
 The trained VideoMAE model (~350MB) is not tracked in git. To use the pre-trained model:
-1. Download from [Releases](https://github.com/ShashankInData/AI-CCTV-Retail-Security/releases) (or train your own)
+1. Download from [Releases](https://github.com/shivaani2828/SentinelVision-AI-Powered-Retail-Security-System) (or train your own)
 2. Place in `models/videomae-shoplifting-best/`
 
 YOLOv8-nano weights (`yolov8n.pt`) auto-download on first run.
@@ -169,6 +169,4 @@ This system is designed for real-world retail deployment:
 | Training | PyTorch + CUDA |
 | Video processing | OpenCV |
 
-## License
 
-See [LICENSE](LICENSE) for details.
